@@ -1,10 +1,6 @@
 //###########################################################################
 //
 // FILE:   adc_ppb_limits_cpu01.c
-
-//TIQUITA HERE
-//agr sim?
-
 // TITLE:  ADC limits check using post-processing block for F2837xS.
 //
 //! \addtogroup cpu01_example_list
